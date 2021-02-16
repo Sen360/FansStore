@@ -1,7 +1,9 @@
 # FansStore v.1.0.2
 
 # Le titre du projet : FansStore 
-# Description du projet : Site e-commerce mettant à disposition des produits dérivés d’univers de films. Quatre univers # # ont été sélectionnés pour ce projet : Harry Potter, Le Seigneur des Anneaux, Marvel et Star Wars. Petite particularité # lorsque l’utilisateur choisira l’un des univers, le CSS s’adaptera. 
+# Description du projet : Site e-commerce mettant à disposition des produits dérivés d’univers de films. 
+# Quatre univers ont été sélectionnés pour ce projet : Harry Potter, Le Seigneur des Anneaux, Marvel et Star Wars. 
+# Petite particularité lorsque l’utilisateur choisira l’un des univers, le CSS s’adaptera. 
  
 # L'équipe : Sènadé LOKO et Margaux VITEZ 
  
